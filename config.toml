@@ -1,0 +1,8 @@
+title_name = "AMPLIFON"
+title_abbr = "AMP.MI"
+face_value = 100
+coupon_rate = 0.01125
+current_market_price = 92.125
+remaining_years_to_maturity = 3
+relevant_market = 'MSCI'
+french_rf_10_close_value = 0.02986
